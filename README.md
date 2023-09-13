@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my github page.
+
+I'm a devops engineer by profession but a hardcore technical person by passion :) 
+
 <!--
 **nagaprashanth0006/nagaprashanth0006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
